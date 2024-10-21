@@ -1,7 +1,7 @@
 # Assessing the Financial Impact of Tornadoes in Minnesota Using Time Series Data
 
 ## Contents
-1. DATA folder: Contains 1950-2023_actual_tornadoes.csv, our original dataset which was produced by the National Oceanic and Atmospheric Administration (NOAA) and posted on their Storm Prediction Center website.
+1. DATA folder: Contains 1950-2023_all_tornadoes.csv, our original dataset which was produced by the National Oceanic and Atmospheric Administration (NOAA) and posted on their Storm Prediction Center website.
 2. SCRIPTS folder: Includes DS_PROJECT_2.ipynb, which holds all the source code for data loading, cleaning, and ARIMA analysis and forecasting.
 3. OUTPUT folder: Contains plots generated during the initial exploratory data analysis (EDA) of the dataset as well as during evaluation of model statistics and diagnostics.
 
@@ -9,7 +9,7 @@
 For the project, we used Python and the additional pandas, numpy, matplotlib, statsmodels, and scikit-learn libraries. Each of our group members used Mac platforms.
 
 ## Map of Documentation
-In the DATA folder, there is 1950-2023_actual_tornadoes.csv, which is the original CSV file of our dataset. In the SCRIPTS folder, there is DS_PROJECT_2.ipynb, which includes all of our source code for loading and cleaning the data, as well as ARIMA analysis and forecasting. In the OUTPUT folder, there are plots that were produced from initial EDA of our dataset as well as from evaluation of our ARIMA model.
+In the DATA folder, there is 1950-2023_all_tornadoes.csv, which is the original CSV file of our dataset. In the SCRIPTS folder, there is DS_PROJECT_2.ipynb, which includes all of our source code for loading and cleaning the data, as well as ARIMA analysis and forecasting. In the OUTPUT folder, there are plots that were produced from initial EDA of our dataset as well as from evaluation of our ARIMA model.
 
 
 ## Instructions for reproducing results
