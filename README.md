@@ -26,8 +26,8 @@ To reproduce the results of this study, follow the steps outlined below:
 
 
 ## References
-[1] Noaa.gov, 2024. https://www.spc.noaa.gov/wcm/data/1950-2023_all_tornadoes.csv (accessed Oct. 11, 2024).
-[2] D. Bhatt, “Time Series Analysis and Forecasting with ARIMA in Python,” The ML Classroom, Nov. 03, 2023. https://medium.com/datainc/time-series-analysis-and-forecasting-with-arima-in-python-aa22694b3aaa 
-[3] “Storm Prediction Center Severe Weather GIS (SVRGIS) Page,” www.spc.noaa.gov, Jul. 17, 2017. https://www.spc.noaa.gov/gis/svrgis/ 
-[4] “Severe Database Description,” Apr. 07, 2010. https://www.spc.noaa.gov/wcm/data/SPC_severe_database_description.pdf
-[5] Zaina Saadeddin, “ARIMA for Time Series Forecasting: A Complete Guide,” Datacamp.com, Sep. 09, 2024. https://www.datacamp.com/tutorial/arima
+1. Noaa.gov, 2024. https://www.spc.noaa.gov/wcm/data/1950-2023_all_tornadoes.csv (accessed Oct. 11, 2024).
+2. D. Bhatt, “Time Series Analysis and Forecasting with ARIMA in Python,” The ML Classroom, Nov. 03, 2023. https://medium.com/datainc/time-series-analysis-and-forecasting-with-arima-in-python-aa22694b3aaa 
+3. “Storm Prediction Center Severe Weather GIS (SVRGIS) Page,” www.spc.noaa.gov, Jul. 17, 2017. https://www.spc.noaa.gov/gis/svrgis/ 
+4. “Severe Database Description,” Apr. 07, 2010. https://www.spc.noaa.gov/wcm/data/SPC_severe_database_description.pdf
+5. Zaina Saadeddin, “ARIMA for Time Series Forecasting: A Complete Guide,” Datacamp.com, Sep. 09, 2024. https://www.datacamp.com/tutorial/arima
